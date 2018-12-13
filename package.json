@@ -51,7 +51,7 @@
       "cordova-plugin-ionic": {
         "APP_ID": "96d8dc19",
         "CHANNEL_NAME": "Production",
-        "UPDATE_METHOD": "background"
+        "UPDATE_METHOD": "auto"
       },
       "cordova-plugin-whitelist": {},
       "cordova-plugin-statusbar": {},
