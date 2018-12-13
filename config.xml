@@ -82,10 +82,11 @@
     <plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
     <plugin name="cordova-plugin-ionic-webview" spec="^2.0.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
+    <engine name="android" spec="7.1.4" />
     <plugin name="cordova-plugin-ionic" spec="5.2.7">
         <variable name="APP_ID" value="96d8dc19" />
         <variable name="CHANNEL_NAME" value="Production" />
         <variable name="UPDATE_METHOD" value="auto" />
+        <variable name="MAX_STORE" value="3" />
     </plugin>
-    <engine name="android" spec="7.1.4" />
 </widget>
